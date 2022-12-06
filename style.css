@@ -1,0 +1,7 @@
+table{
+    border: 5px;
+    border-color: red;
+}
+#tr1{
+    column-span: 3;
+}
