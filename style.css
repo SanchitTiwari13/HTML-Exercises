@@ -1,7 +1,14 @@
 table{
     border: 5px;
     border-color: red;
+    display: grid;
+    place-items: center;
 }
 #tr1{
     column-span: 3;
+    display: grid;
+    place-items: center;
+}
+select{
+    size: 50px;
 }
